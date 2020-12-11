@@ -1,4 +1,4 @@
-# Download Adobe Suite [download](Download.md)
+# Download Adobe Suite [Tutorial](Download.md)
 
 
 ## Title of the tutorial

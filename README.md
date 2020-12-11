@@ -1,5 +1,5 @@
-# Download Adobe Suite
-[download](Download.md)
+# Download Adobe Suite [download](Download.md)
+
 
 ## Title of the tutorial
 > How to download the adobe suite as a Mizzou Student

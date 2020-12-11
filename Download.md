@@ -3,4 +3,4 @@
 
 1. > Put https://missouri.onthehub.com/ into your search bar.
 2. > Log in using your pawprint
-![Shibboleth](Screen Shot 2020-12-11 at 5.35.05 PM)
+![Shibboleth](/Users/qjcbq2/Desktop/Screen\ Shot\ 2020-12-11\ at\ 5.35.05\ PM.png)

@@ -1,7 +1,7 @@
 # Download Adobe Suite [Tutorial](Download.md)
 
 
-## Title of the tutorial
+## Title
 > How to download the adobe suite as a Mizzou Student
 
 ## Author

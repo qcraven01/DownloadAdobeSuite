@@ -3,4 +3,4 @@
 
 1. > Put https://missouri.onthehub.com/ into your search bar.
 2. > Log in using your pawprint
-![Shibboleth](Log In.png)
+![Shibboleth](LogIn.png)

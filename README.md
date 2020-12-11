@@ -1,8 +1,9 @@
 # Download Adobe Suite
 
 
-## Title of the tutorial.
-> How to download the adobe suite as a Mizzou Student ## The author of the tutorial.
+## Title of the tutorial  Author   Summary   Target Audience
+> How to download the adobe suite as a Mizzou Student
+
 > Quin Craven
 
 ## A brief summary of the purpose and content of the tutorial.
